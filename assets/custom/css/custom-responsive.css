@@ -1,3 +1,42 @@
+/* @Author: Enterprise Development
+   @URL: http://ed.com.eg/
+
+     This file contains the styling for all screens like mobile and tablets , this
+     is the file you need to edit the theme responsive in all screen sizes 
+
+     the screen sizes are outlined below.
+
+
+     1.  min-width:1200px
+     2.  max-width:1024px
+     3.  max-width:992px
+     4.  max-width:575px
+     5.  (min-width:992px) and (max-width:1200px)
+     6.  min-width:1024px
+     7.  min-width:768px
+     8.  (min-width:767px) and (max-width:993px)
+     9.  max-width:767px 
+     10. max-width:767px
+     11. (min-width:667px) and (max-width:800px)
+     12. (min-width:737px) and (max-width:1024px)
+     13. (min-width:769px) and (max-width:1024px)
+     14. (min-width:768px) and (max-width:1024px)
+     15. (min-width:768px) and (max-width:992px) 
+     16. (min-width:425px) and (max-width:768px)
+     17. (max-width:768px)
+     18. (max-width:425px)
+     19. (max-width:736px)
+     20. (max-width:480px)
+     21. (max-width:991px)
+     22. (max-width:320px)   
+     23. (min-width:768px) and (max-width:1169px)   
+     24. (width:768px)
+     25. (max-width:375px)
+     26. (min-width:375px) and (max-width:768px)
+
+     
+*/
+
 
 
 @media (min-width:1200px){

@@ -225,7 +225,7 @@ $('[data-countdown]').each(function() {
     if(current < 0) {
       current = count;
     }
-    if(current > count)Â {
+    if(current > count) {
       current = 0;
     }
     
